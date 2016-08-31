@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<TextView
+	    android:id="@+id/Textview01"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/beijing"
+	    android:textSize="57sp"
+	    />
+    
+	<TextView
+	    android:id="@+id/Textview02"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/shanghai"
+	    android:textSize="57sp"
+	    />
+	
+	<TextView
+	    android:id="@+id/Textview03"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/guangzhou"
+	    android:textSize="57sp"
+	    />
+	
+	
+</FrameLayout>

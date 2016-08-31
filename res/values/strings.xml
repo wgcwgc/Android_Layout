@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Layout</string>
+    <string name="hello_world">Hello wgcwgc!</string>
+    <string name="action_settings">action_settings</string>
+    
+    
+    <string name="zujian">TextView组件的使用asdfasdfasdfasdf;lkjl;jjjjjjjjjjjjjjjjjjjjjasdfasdfasdf</string>
+    
+    
+    
+    <string name="shuru"> 请输入，，，</string>
+   
+    
+    <string name = "LinearLayoutView01">LinearLayout布局</string>
+    <string name = "LinearLayoutView02">LinearLayout布局</string>
+    <string name = "LinearLayoutView03">LinearLayout布局</string>
+    <string name = "LinearLayoutView04">LinearLayout布局</string>
+    
+    <string name = "to">to，，，</string>
+    <string name = "subject">subject，，，</string>
+    <string name = "message">message，，，</string>
+    <string name = "send">send，，，</string>
+    
+    <string name = "RelativeLayoutView01">RelativeLayout布局</string>
+    <string name = "RelativeLayoutView02">RelativeLayout布局</string>
+    <string name = "RelativeLayoutView03">RelativeLayout布局</string>
+    <string name = "RelativeLayoutView04">RelativeLayout布局</string>
+    
+    <string name = "dates">dates</string>
+    <string name = "times">times</string>
+    <string name = "name">name</string>
+    <string name = "done">done</string>
+    
+    <string name = "Switch">Switch</string>
+    
+    
+    
+    <string name = "TableLayoutView01">TableLayout布局</string>
+    <string name = "TableLayoutView02">TableLayout布局</string>
+    <string name = "TableLayoutView03">TableLayout布局</string>
+    <string name = "TableLayoutView04">TableLayout布局</string>
+    
+    <string name = "username">用户名称</string>
+    <string name = "password">用户密码</string>
+    <string name = "register">注册</string>
+    <string name = "longin">登录</string>
+    
+    <string name = "FrameLayoutView01">FrameLayout布局</string>
+    <string name = "FrameLayoutView02">FrameLayout布局</string>
+    <string name = "FrameLayoutView03">FrameLayout布局</string>
+    <string name = "FrameLayoutView04">FrameLayout布局</string>
+    
+    <string name = "beijing">北京</string>
+    <string name = "shanghai">上海</string>
+    <string name = "guangzhou">广州</string>
+    
+    <string name = "AbsoluteLayoutView01">AbsoluteLayout布局</string>
+    <string name = "AbsoluteLayoutView02">AbsoluteLayout布局</string>
+    <string name = "AbsoluteLayoutView03">AbsoluteLayout布局</string>
+    <string name = "AbsoluteLayoutView04">AbsoluteLayout布局</string>
+    
+    <string name = "user_name">绝对布局</string>
+    
+    
+    
+</resources>
